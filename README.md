@@ -1,7 +1,7 @@
 - 👋 Hi, I’m S.M.Irtiza
 - 👀 I’m interested in programming, web-development, and UI/UX.
 - 🌱 I’m CS freshman at FAST (NUCES).
-- 💞️ I’m looking to collaborate on th project related to C programming.
+- 💞️ I’m looking to collaborate on th project related to C programming,web-development,UI/UX.
 - 📫 Reach me at: irtiza.s2918@gmail.com
 
 <!---
